@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
+
+https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
+
+https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers
